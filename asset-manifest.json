@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/willholmeswastaken/exchange-rates-ui.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/willholmeswastaken/exchange-rates-ui.git/static/js/main.6a1c6060.chunk.js",
-    "main.js.map": "/willholmeswastaken/exchange-rates-ui.git/static/js/main.6a1c6060.chunk.js.map",
-    "runtime-main.js": "/willholmeswastaken/exchange-rates-ui.git/static/js/runtime-main.f7fb6c6d.js",
-    "runtime-main.js.map": "/willholmeswastaken/exchange-rates-ui.git/static/js/runtime-main.f7fb6c6d.js.map",
-    "static/js/2.7019e1d5.chunk.js": "/willholmeswastaken/exchange-rates-ui.git/static/js/2.7019e1d5.chunk.js",
-    "static/js/2.7019e1d5.chunk.js.map": "/willholmeswastaken/exchange-rates-ui.git/static/js/2.7019e1d5.chunk.js.map",
-    "index.html": "/willholmeswastaken/exchange-rates-ui.git/index.html",
-    "precache-manifest.230c9c319e8c916c067b793a23aa1b71.js": "/willholmeswastaken/exchange-rates-ui.git/precache-manifest.230c9c319e8c916c067b793a23aa1b71.js",
-    "service-worker.js": "/willholmeswastaken/exchange-rates-ui.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/willholmeswastaken/exchange-rates-ui.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7019e1d5.chunk.js.LICENSE.txt": "/willholmeswastaken/exchange-rates-ui.git/static/js/2.7019e1d5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/willholmeswastaken/exchange-rates-ui.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/exchange-rates-ui/static/css/main.5f361e03.chunk.css",
+    "main.js": "/exchange-rates-ui/static/js/main.c09d4eb5.chunk.js",
+    "main.js.map": "/exchange-rates-ui/static/js/main.c09d4eb5.chunk.js.map",
+    "runtime-main.js": "/exchange-rates-ui/static/js/runtime-main.6a03faf1.js",
+    "runtime-main.js.map": "/exchange-rates-ui/static/js/runtime-main.6a03faf1.js.map",
+    "static/js/2.7019e1d5.chunk.js": "/exchange-rates-ui/static/js/2.7019e1d5.chunk.js",
+    "static/js/2.7019e1d5.chunk.js.map": "/exchange-rates-ui/static/js/2.7019e1d5.chunk.js.map",
+    "index.html": "/exchange-rates-ui/index.html",
+    "precache-manifest.9d3e384abe6e1e78a46fcd227552f74e.js": "/exchange-rates-ui/precache-manifest.9d3e384abe6e1e78a46fcd227552f74e.js",
+    "service-worker.js": "/exchange-rates-ui/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/exchange-rates-ui/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7019e1d5.chunk.js.LICENSE.txt": "/exchange-rates-ui/static/js/2.7019e1d5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/exchange-rates-ui/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7fb6c6d.js",
+    "static/js/runtime-main.6a03faf1.js",
     "static/js/2.7019e1d5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6a1c6060.chunk.js"
+    "static/js/main.c09d4eb5.chunk.js"
   ]
 }
