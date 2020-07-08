@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/willholmeswastaken/exchange-rates-ui/static/css/main.5f361e03.chunk.css",
+    "main.js": "/willholmeswastaken/exchange-rates-ui/static/js/main.e8341fb7.chunk.js",
+    "main.js.map": "/willholmeswastaken/exchange-rates-ui/static/js/main.e8341fb7.chunk.js.map",
+    "runtime-main.js": "/willholmeswastaken/exchange-rates-ui/static/js/runtime-main.3ca0576c.js",
+    "runtime-main.js.map": "/willholmeswastaken/exchange-rates-ui/static/js/runtime-main.3ca0576c.js.map",
+    "static/js/2.7019e1d5.chunk.js": "/willholmeswastaken/exchange-rates-ui/static/js/2.7019e1d5.chunk.js",
+    "static/js/2.7019e1d5.chunk.js.map": "/willholmeswastaken/exchange-rates-ui/static/js/2.7019e1d5.chunk.js.map",
+    "index.html": "/willholmeswastaken/exchange-rates-ui/index.html",
+    "precache-manifest.42ee34a1705a5788f646643a4f7a8f07.js": "/willholmeswastaken/exchange-rates-ui/precache-manifest.42ee34a1705a5788f646643a4f7a8f07.js",
+    "service-worker.js": "/willholmeswastaken/exchange-rates-ui/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/willholmeswastaken/exchange-rates-ui/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7019e1d5.chunk.js.LICENSE.txt": "/willholmeswastaken/exchange-rates-ui/static/js/2.7019e1d5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/willholmeswastaken/exchange-rates-ui/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ca0576c.js",
+    "static/js/2.7019e1d5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e8341fb7.chunk.js"
+  ]
+}
