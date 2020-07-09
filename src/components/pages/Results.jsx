@@ -13,7 +13,7 @@ const Results = () => {
     const [hasFailed, setHasFailed] = useState(false);
     const { currency } = useParams();
     useEffect(() => {
-        if (currencies.code(currency) && rates.length === 0) {
+        if (currencies.code(currency)) {
             axios.get(`${config.CURRENCY_RATES_SERVICE_URL}/rates/${currency}`)
                 .then(res => {
                     if ([200, 201, 204].includes(res.status)) {
