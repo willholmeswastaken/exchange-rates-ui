@@ -22,8 +22,9 @@ jobs:
     - name: Install dependencies 🔧
       run: npm install
 
-    - name: Run the tests and generate coverage report 🔧
-      run: npm test -- --coverage
+    # Once we have tests, uncomment this step lol
+    # - name: Run the tests and generate coverage report 🔧
+    #  run: npm test -- --coverage
 
     - name: Build 🔧
       run: npm run build
