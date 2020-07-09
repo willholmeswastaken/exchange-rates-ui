@@ -67,7 +67,7 @@ const App = () => {
                   Footer Header
               </Header>
                 <p>
-                  Made with ☕ by Will Holmes
+                  Made with <span role="img" aria-label="coffee">☕</span> by Will Holmes
               </p>
               </Grid.Column>
             </Grid.Row>
